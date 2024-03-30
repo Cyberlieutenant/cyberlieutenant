@@ -1,4 +1,4 @@
-<h1>Hi, I'm Bernard ! <a>Cybersecurity Professional</a> 
+<h1>Hi, I'm Bernard ! <a href="https://www.linkedin.com/in/bernardogbevire/">Am a Cybersecurity Professional</a>, 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
