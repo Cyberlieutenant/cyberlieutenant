@@ -9,6 +9,7 @@
 
 - [CompTIA A+ ce](https://www.credly.com/badges/d7769ed1-c638-4b7a-9fe7-8b1172e5a0c1/linked_in_profile)
 - [Google IT Support ](https://www.credly.com/badges/9947c0fb-dde3-4616-9988-dbc05c28d2fb/linked_in_profile)
+- [Virtually Testing FoundationVirtually Testing Foundation](https://certificate.givemycertificate.com/c/5961fd11-482c-44ea-a39c-ba933fd6f214)
 
 
 
