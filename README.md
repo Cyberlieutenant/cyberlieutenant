@@ -1,12 +1,3 @@
-<h1>Hi, I'm Bernard ! <a href="https://www.linkedin.com/in/bernardogbevire/">Am a Cybersecurity Professional</a>, 
-
-<h2>👨‍💻 Cybersecurity Projects:</h2>
-
-- <b>A Day in the life of Cybersecurity Generalist</b>
-  - [Data Analysis using Splunk](https://github.com/Cyberlieutenant/LABURL)
-
-
-
 <h1>Hi, I'm Bernard</h1> <h2>Cybersecurity Professional | Cloud Endpoint Administrator | Identity & Device Management</h2>
 I work with Azure AD, Intune, Autopilot, M365, and endpoint security. I manage devices, enforce compliance, and improve identity access workflows. I support enterprise environments and solve issues fast.
 <h2>🔧 Core Focus</h2>
