@@ -11,7 +11,7 @@
 - [Google IT Support ](https://www.credly.com/badges/9947c0fb-dde3-4616-9988-dbc05c28d2fb/linked_in_profile)
 - [Virtually Testing FoundationVirtually Testing Foundation](https://certificate.givemycertificate.com/c/5961fd11-482c-44ea-a39c-ba933fd6f214)
 - [Introduction to the Threat Landscape 2.0](https://www.credly.com/badges/2051ac38-e2ba-485e-8d42-83752271e566/linked_in_profile)
-
+- [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/users/bernardkokoriogbevire-8621/credentials/a446eb632b76eba9)
 
 
 <!--
