@@ -18,8 +18,12 @@ Remote support and troubleshooting
 <h2>📂 Technical Projects</h2>
 
 <b>Zero-Touch Windows Provisioning Lab</b><br>
-Autopilot + Intune + Conditional Access — building an end-to-end enterprise device provisioning and access control lab in a Microsoft 365 Developer tenant, from zero-touch deployment through compliance and Conditional Access enforcement.<br>
+Autopilot + Intune + Conditional Access — building an end-to-end enterprise device provisioning and access control lab in a Microsoft 365 tenant, from zero-touch deployment through compliance and Conditional Access enforcement.<br>
 🔗 <a href="https://github.com/Cyberlieutenant/autopilot-intune-ca-lab">View project</a>
+
+<b>Identity Governance Lab</b><br>
+Entra ID PIM + Access Reviews + Entitlement Management — hands-on lab demonstrating least-privilege access principles through just-in-time role activation, recurring access certification, and self-service access requests with approval workflows.<br>
+🔗 <a href="https://github.com/Cyberlieutenant/-identity-governance-lab-">View project</a>
 
 ## 🎓 Certifications
 
