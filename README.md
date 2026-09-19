@@ -25,6 +25,10 @@ Autopilot + Intune + Conditional Access — building an end-to-end enterprise de
 Entra ID PIM + Access Reviews + Entitlement Management — hands-on lab demonstrating least-privilege access principles through just-in-time role activation, recurring access certification, and self-service access requests with approval workflows.<br>
 🔗 <a href="https://github.com/Cyberlieutenant/-identity-governance-lab-">View project</a>
 
+<b>SSO & Federation Lab</b><br>
+SAML SSO integration, claims mapping, and B2B identity federation — hands-on lab covering enterprise application authentication and cross-organization identity trust in Entra ID.<br>
+🔗 <a href="https://github.com/Cyberlieutenant/sso-federation-lab">View project</a>
+
 ## 🎓 Certifications
 
 ![CompTIA A+](https://img.shields.io/badge/CompTIA%20A+-000000?style=for-the-badge)
