@@ -50,6 +50,10 @@ Entra ID PIM + Access Reviews + Entitlement Management — hands-on lab demonstr
 SAML SSO integration, claims mapping, and B2B identity federation — hands-on lab covering enterprise application authentication and cross-organization identity trust in Entra ID.<br>
 🔗 <a href="https://github.com/Cyberlieutenant/sso-federation-lab">View project</a>
 
+<b>Power Platform Automation Lab</b><br>
+Power Automate + Microsoft Teams + Outlook — building a notification proof of concept for a simulated PIM activation request, from manual trigger through verified delivery across two Microsoft 365 channels.<br>
+🔗 <a href="https://github.com/Cyberlieutenant/power-platform-automation-lab.">View project</a>
+
 ---
 
 ## 🎓 Certifications
