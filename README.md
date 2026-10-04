@@ -19,6 +19,7 @@ I work with Azure AD, Intune, Autopilot, M365, and endpoint security. I manage d
 ![Intune](https://img.shields.io/badge/Microsoft%20Intune-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![Autopilot](https://img.shields.io/badge/Windows%20Autopilot-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![M365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoft365&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
 ![Conditional Access](https://img.shields.io/badge/Conditional%20Access-0078D4?style=flat-square)
 ![MFA/SSO](https://img.shields.io/badge/MFA%20%26%20SSO-0078D4?style=flat-square)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
@@ -28,6 +29,7 @@ I work with Azure AD, Intune, Autopilot, M365, and endpoint security. I manage d
 - 💻 Intune device configuration and compliance
 - 🚀 Windows Autopilot deployment
 - 🏢 M365 administration
+- ⚡ Power Automate workflow automation
 - 🛡️ Conditional Access
 - 🔒 Endpoint security
 - 🔑 MFA and SSO
